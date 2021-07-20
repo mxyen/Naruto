@@ -1,0 +1,40 @@
+body {
+	background:  #F6EA6B; 
+}
+
+h1 {
+	font-size: 35px;
+	color: black;
+	margin-left: 10px;
+}
+
+p{
+	font:120% arial;
+	color: black; 
+}
+
+.box {
+	float: left;
+    background-color: #ED992E ;
+    width: 19%; 
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.box >div>a>p {
+	font-size: 30px;
+}
+
+.narutosonriendo >img {
+	width: 350px;
+	height: 450px;
+	padding: 25px;
+}
+
+.logokurama >a >img {
+	margin-top: -220px;
+	margin-left: 65px;
+	width: 150px;
+	height: 150px;
+	float: left;
+}

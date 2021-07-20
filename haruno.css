@@ -1,0 +1,36 @@
+body{
+	background: #F2B6F4;
+}
+
+h1 {
+	font-size: 35px;
+	color: black;
+	margin-left: 10px;
+}
+
+.box  {
+	float: left;
+    background-color: #537FF3;
+    border-color: red;
+    width: 19%; 
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.box >div >a >p  {
+	font-size: 30px;
+}
+
+.logozakura >a >img {
+	margin-top: -200px;
+	margin-left: 50px;
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+
+.sakurafanart >img{
+	width: 350px;
+	height: 450px;
+	padding: 25px;
+}
